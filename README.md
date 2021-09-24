@@ -13,4 +13,13 @@ The GUI looks like this:
 ![GUI](GUI.png)
 <hr>
 The three sliders are used to feed in the data while estimated sales value is displayed in the header area.<br>
+Steps to run:<br><b>Method 1:</b>
+
+- Clone the repo using ```git clone https://github.com/Gautam-flash/advertiser.git```
+- run Sales_gui.py
+
+<br><b>Method 2:</b>
+- Download ```Sales_gui.py``` file
+- Download ```model3.sav``` and save it (in the same download directory) in a folder named ```models```
+- Run the ```Sales_gui.py``` 
 
